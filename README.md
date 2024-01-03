@@ -23,7 +23,7 @@
 <!-- Title -->
 <div align="center">
   <p>
-    <strong>Student | Mobile Developer</strong>
+    <strong>Student | Developer</strong>
   </p>
 </div>
 
