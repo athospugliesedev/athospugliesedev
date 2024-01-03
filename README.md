@@ -1,4 +1,9 @@
 <p align="center">
+    <code>#Python</code> &nbsp;
+    <code>#DataScience</code> &nbsp;
+  <code>#InteligênciaArtificial</code> &nbsp;
+  <code>#TypeScript</code> &nbsp;
+
   <code>#TypeScript</code> &nbsp;
   <code>#ReactNative</code> &nbsp;
   <code>#ReactJs</code> &nbsp;
